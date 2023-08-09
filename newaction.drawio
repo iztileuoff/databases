@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-09T06:01:53.316Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="y0k6yx5T24BAcBPa_DRZ" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-09T06:03:02.890Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Oi21AXWMDVPlA2a8tv9G" version="21.6.7" type="github">
   <diagram name="Страница 1" id="v98X3meW8ipgO0uagqTO">
     <mxGraphModel dx="2261" dy="1919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -359,7 +359,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DLz9hYGDZDSMJP3Sl5Ig-216" value="Quiz" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=2;rounded=1;shadow=0;glass=0;swimlaneLine=1;" parent="1" vertex="1">
-          <mxGeometry x="1640" y="360" width="160" height="146" as="geometry" />
+          <mxGeometry x="1680" y="500" width="160" height="146" as="geometry" />
         </mxCell>
         <mxCell id="DLz9hYGDZDSMJP3Sl5Ig-217" value="id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="DLz9hYGDZDSMJP3Sl5Ig-216" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -472,20 +472,23 @@
         <mxCell id="SOgIU_rbGHCimn7c2xlW-6" value="name" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="SOgIU_rbGHCimn7c2xlW-4" vertex="1">
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CCO02WMey-WF67g2OsvS-1" value="Quiz" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=2;rounded=1;shadow=0;glass=0;swimlaneLine=1;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="764" width="160" height="146" as="geometry" />
+        <mxCell id="CCO02WMey-WF67g2OsvS-1" value="Check" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=2;rounded=1;shadow=0;glass=0;swimlaneLine=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="810" width="160" height="146" as="geometry" />
         </mxCell>
         <mxCell id="CCO02WMey-WF67g2OsvS-2" value="id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="CCO02WMey-WF67g2OsvS-1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CCO02WMey-WF67g2OsvS-3" value="exam_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="CCO02WMey-WF67g2OsvS-1">
+        <mxCell id="CCO02WMey-WF67g2OsvS-3" value="result_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="CCO02WMey-WF67g2OsvS-1">
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CCO02WMey-WF67g2OsvS-4" value="question" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="CCO02WMey-WF67g2OsvS-1">
+        <mxCell id="CCO02WMey-WF67g2OsvS-4" value="quiz_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="CCO02WMey-WF67g2OsvS-1">
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CCO02WMey-WF67g2OsvS-5" value="answers" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="CCO02WMey-WF67g2OsvS-1">
+        <mxCell id="CCO02WMey-WF67g2OsvS-5" value="answer_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="CCO02WMey-WF67g2OsvS-1">
           <mxGeometry y="116" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CCO02WMey-WF67g2OsvS-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="CCO02WMey-WF67g2OsvS-4" target="DLz9hYGDZDSMJP3Sl5Ig-217">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
