@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T10:24:31.858Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="O-sjTSEgBtDbljkOIOJQ" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T10:25:25.702Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="qKWxKx_5NGlUiqF6oCgk" version="21.6.7" type="github">
   <diagram name="Страница — 1" id="qROckgiQK7EX2VFDrzop">
-    <mxGraphModel dx="1434" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
           <mxGeometry y="116" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SY21hBNfIm9IbBHmOsaL-7" value="Service" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=2;rounded=1;shadow=0;glass=0;swimlaneLine=1;" parent="1" vertex="1">
-          <mxGeometry x="1060" y="746" width="160" height="146" as="geometry" />
+          <mxGeometry x="1010" y="730" width="160" height="146" as="geometry" />
         </mxCell>
         <mxCell id="SY21hBNfIm9IbBHmOsaL-8" value="id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="SY21hBNfIm9IbBHmOsaL-7" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry y="146" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SY21hBNfIm9IbBHmOsaL-15" value="Type" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=2;rounded=1;shadow=0;glass=0;swimlaneLine=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="1060" width="160" height="86" as="geometry" />
+          <mxGeometry x="500" y="1060" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="SY21hBNfIm9IbBHmOsaL-16" value="id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="SY21hBNfIm9IbBHmOsaL-15" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -158,7 +158,7 @@
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X0GgLs3BWVqWXSFDgRPY-1" value="Unit" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=2;rounded=1;shadow=0;glass=0;swimlaneLine=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="941" width="160" height="86" as="geometry" />
+          <mxGeometry x="500" y="950" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="X0GgLs3BWVqWXSFDgRPY-2" value="id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="X0GgLs3BWVqWXSFDgRPY-1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -195,6 +195,9 @@
         </mxCell>
         <mxCell id="X0GgLs3BWVqWXSFDgRPY-14" value="max_thickness" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="X0GgLs3BWVqWXSFDgRPY-6">
           <mxGeometry y="236" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X0GgLs3BWVqWXSFDgRPY-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="X0GgLs3BWVqWXSFDgRPY-8" target="SY21hBNfIm9IbBHmOsaL-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
