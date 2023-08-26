@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-26T06:06:26.392Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="qUurJSWwI2vY9ZBKqwJH" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-26T06:06:58.524Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="4BrqscLspvOe5Jpj2-3L" version="21.6.9" type="github">
   <diagram name="Страница — 1" id="qROckgiQK7EX2VFDrzop">
     <mxGraphModel dx="2022" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -978,7 +978,7 @@
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5cAmZ27wlyQOIcFCG0QH-13" value="&lt;ul&gt;&lt;li&gt;undimensional - thing&lt;/li&gt;&lt;li&gt;one dimensional - sm&lt;/li&gt;&lt;li&gt;one dimensional - m&lt;/li&gt;&lt;li&gt;two dimensional - sm&lt;br&gt;&lt;/li&gt;&lt;li&gt;two dimensional - m&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="3308" y="1012" width="175" height="128" as="geometry" />
+          <mxGeometry x="3010" y="1038" width="175" height="128" as="geometry" />
         </mxCell>
         <mxCell id="5cAmZ27wlyQOIcFCG0QH-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="5cAmZ27wlyQOIcFCG0QH-2" target="5cAmZ27wlyQOIcFCG0QH-10">
           <mxGeometry relative="1" as="geometry" />
