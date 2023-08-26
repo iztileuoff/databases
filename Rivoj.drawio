@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-26T06:53:38.418Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="m-0B1xykIRYAMr1J7l4C" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-26T06:55:02.077Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="KzFsk_fjnApUHWX2QGmd" version="21.6.9" type="github">
   <diagram name="Страница — 1" id="qROckgiQK7EX2VFDrzop">
     <mxGraphModel dx="2261" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -762,7 +762,7 @@
         <mxCell id="2M7GUlwyjcvKo0Abf1ux-55" value="id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="2M7GUlwyjcvKo0Abf1ux-54" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5cAmZ27wlyQOIcFCG0QH-17" value="title" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="2M7GUlwyjcvKo0Abf1ux-54">
+        <mxCell id="5cAmZ27wlyQOIcFCG0QH-17" value="name" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="2M7GUlwyjcvKo0Abf1ux-54">
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2M7GUlwyjcvKo0Abf1ux-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="2M7GUlwyjcvKo0Abf1ux-18" target="2M7GUlwyjcvKo0Abf1ux-20" edge="1">
