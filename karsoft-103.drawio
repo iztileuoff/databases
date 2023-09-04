@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T12:58:01.923Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="U_7F82UtKCRCURstf6kj" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-04T12:58:05.957Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="7V2ZpNpqGk-RjNOanOxe" version="21.7.2" type="github">
   <diagram name="Страница — 1" id="SGLlazU0XJNtwitpSM4t">
     <mxGraphModel dx="3088" dy="-419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -170,7 +170,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QOrAUv4INDOSFVqWjOK6-1" value="&lt;ul&gt;&lt;li&gt;super-admin&lt;/li&gt;&lt;li&gt;admin&lt;/li&gt;&lt;li&gt;dispatcher&lt;/li&gt;&lt;li&gt;guide&lt;/li&gt;&lt;li&gt;reciver&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="-1250" y="1780" width="233" height="120" as="geometry" />
+          <mxGeometry x="-1140" y="1826" width="233" height="120" as="geometry" />
         </mxCell>
         <mxCell id="QOrAUv4INDOSFVqWjOK6-4" value="Reason" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=2;rounded=1;shadow=0;glass=0;swimlaneLine=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="1880" width="160" height="116" as="geometry" />
