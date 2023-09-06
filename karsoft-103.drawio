@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-06T11:31:57.691Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="6r0aHeaFnCBsYdK_eE_T" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-06T11:32:03.680Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="AmnQoVWdOT-j4YVDazLE" version="21.7.2" type="github">
   <diagram name="Страница — 1" id="SGLlazU0XJNtwitpSM4t">
-    <mxGraphModel dx="2849" dy="-544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2473" dy="-740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -247,10 +247,10 @@
         <mxCell id="QOrAUv4INDOSFVqWjOK6-24" value="name" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="QOrAUv4INDOSFVqWjOK6-22" vertex="1">
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QOrAUv4INDOSFVqWjOK6-32" value="sumka" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="QOrAUv4INDOSFVqWjOK6-22" vertex="1">
+        <mxCell id="QOrAUv4INDOSFVqWjOK6-30" value="vehicle_number" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="QOrAUv4INDOSFVqWjOK6-22" vertex="1">
           <mxGeometry y="116" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QOrAUv4INDOSFVqWjOK6-30" value="vehicle_number" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="QOrAUv4INDOSFVqWjOK6-22" vertex="1">
+        <mxCell id="QOrAUv4INDOSFVqWjOK6-32" value="sumka" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="QOrAUv4INDOSFVqWjOK6-22" vertex="1">
           <mxGeometry y="146" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0QzeHT4u77VAxk4FgjJM-1" value="state" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="QOrAUv4INDOSFVqWjOK6-22" vertex="1">
