@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-09T05:07:51.832Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="fWXwmaMfJR8vIiJlP11l" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-09T05:35:08.904Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="gvaRucX66CV3czvU4KMp" version="21.7.4" type="github">
   <diagram name="Страница — 1" id="SGLlazU0XJNtwitpSM4t">
     <mxGraphModel dx="3088" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -338,7 +338,7 @@
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="87_-TiOc8iO3d5YJbcuS-6" value="&lt;ul&gt;&lt;li&gt;Bos&lt;/li&gt;&lt;li&gt;Bánt&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Túslik&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="1" vertex="1">
-          <mxGeometry x="-1296.5" y="1343" width="233" height="120" as="geometry" />
+          <mxGeometry x="-260" y="1169" width="233" height="120" as="geometry" />
         </mxCell>
         <mxCell id="87_-TiOc8iO3d5YJbcuS-7" value="brigade_status" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=2;rounded=1;shadow=0;glass=0;swimlaneLine=1;" parent="1" vertex="1">
           <mxGeometry x="-510" y="1070" width="160" height="116" as="geometry" />
