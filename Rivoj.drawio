@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-29T06:53:22.793Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="IbXYZIsBK4W-_S_wKYPw" version="22.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-29T06:54:22.732Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="1MKFUtA5muOssJt8e1VO" version="22.0.0" type="github">
   <diagram name="Страница — 1" id="qROckgiQK7EX2VFDrzop">
-    <mxGraphModel dx="309" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="546" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -684,10 +684,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xs7jxgNsXRxjrpGEsAQI-106" value="&lt;ul&gt;&lt;li&gt;undimensional&lt;/li&gt;&lt;li&gt;one dimensional&lt;/li&gt;&lt;li&gt;two dimensional&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="1" vertex="1">
-          <mxGeometry x="5290" y="1045.5" width="175" height="80" as="geometry" />
+          <mxGeometry x="5260" y="1045.5" width="175" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Xs7jxgNsXRxjrpGEsAQI-107" value="&lt;ul&gt;&lt;li&gt;thing&lt;/li&gt;&lt;li&gt;sm&lt;/li&gt;&lt;li&gt;m&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="1" vertex="1">
-          <mxGeometry x="5290" y="1111.5" width="175" height="80" as="geometry" />
+          <mxGeometry x="5260" y="1111.5" width="175" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Xs7jxgNsXRxjrpGEsAQI-108" value="Dimension" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=2;rounded=1;shadow=0;glass=0;swimlaneLine=1;" parent="1" vertex="1">
           <mxGeometry x="4600" y="1167" width="160" height="116" as="geometry" />
@@ -702,7 +702,7 @@
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xs7jxgNsXRxjrpGEsAQI-112" value="&lt;ul&gt;&lt;li&gt;undimensional - thing&lt;/li&gt;&lt;li&gt;one dimensional - sm&lt;/li&gt;&lt;li&gt;one dimensional - m&lt;/li&gt;&lt;li&gt;two dimensional - sm&lt;br&gt;&lt;/li&gt;&lt;li&gt;two dimensional - m&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="1" vertex="1">
-          <mxGeometry x="5290" y="1185.5" width="175" height="128" as="geometry" />
+          <mxGeometry x="5260" y="1185.5" width="175" height="128" as="geometry" />
         </mxCell>
         <mxCell id="Xs7jxgNsXRxjrpGEsAQI-114" value="Support" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=2;rounded=1;shadow=0;glass=0;swimlaneLine=1;" parent="1" vertex="1">
           <mxGeometry x="4110" y="1054" width="160" height="146" as="geometry" />
