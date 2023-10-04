@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-04T12:05:31.495Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="OWOaYpIS7qMznefoyeqc" version="22.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-04T12:47:45.723Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="kCHYYfSb5rwpgyMZkJMF" version="22.0.2" type="github">
   <diagram name="Страница — 1" id="b3oKfzQSsq8FAjGXkda2">
     <mxGraphModel dx="2801" dy="-569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
           <mxGeometry y="146" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FOV_UiA-wxWY1rswkujk-8" value="Address" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=2;rounded=1;shadow=0;glass=0;swimlaneLine=1;" vertex="1" parent="1">
-          <mxGeometry x="-1250" y="1810" width="160" height="206" as="geometry" />
+          <mxGeometry x="-1100" y="1800" width="160" height="206" as="geometry" />
         </mxCell>
         <mxCell id="FOV_UiA-wxWY1rswkujk-9" value="id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="FOV_UiA-wxWY1rswkujk-8">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
