@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-09T06:28:50.132Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="OLA_YCkWeZu275Y9Q_SS" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-09T06:33:19.092Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="JJUd1LoHfcfvp_VaCmZV" version="22.0.4" type="github">
   <diagram name="Страница — 1" id="nPKgQsTqUa-yREv4XHLt">
     <mxGraphModel dx="2473" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
         <mxCell id="SCiiHCAv5geelPgDRof5-8" value="password" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="SCiiHCAv5geelPgDRof5-3">
           <mxGeometry y="146" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SCiiHCAv5geelPgDRof5-9" value="role_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="SCiiHCAv5geelPgDRof5-3">
+        <mxCell id="SCiiHCAv5geelPgDRof5-9" value="page_number" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="SCiiHCAv5geelPgDRof5-3">
           <mxGeometry y="176" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
