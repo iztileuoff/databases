@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-19T07:00:10.561Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="YUKOXtG-9bHcSFAslha_" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-19T07:00:53.218Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="PAbv41eJgGEshopAbaIS" version="22.0.4" type="github">
   <diagram name="Страница — 1" id="l952tXTDJv2I5u81VP_P">
-    <mxGraphModel dx="1247" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -160,7 +160,7 @@
         <mxCell id="cyeEAOcGzKLk-wOIlBgN-18" value="id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="cyeEAOcGzKLk-wOIlBgN-17" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VG2_tzrguG1U2oGE5e1O-36" value="title" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="cyeEAOcGzKLk-wOIlBgN-17">
+        <mxCell id="VG2_tzrguG1U2oGE5e1O-36" value="module_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="cyeEAOcGzKLk-wOIlBgN-17">
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cyeEAOcGzKLk-wOIlBgN-20" value="title" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="cyeEAOcGzKLk-wOIlBgN-17" vertex="1">
@@ -323,6 +323,9 @@
           <mxGeometry y="146" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VG2_tzrguG1U2oGE5e1O-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="5lU2MvCnA9rc4x8VBAlA-41" target="cyeEAOcGzKLk-wOIlBgN-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VG2_tzrguG1U2oGE5e1O-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="VG2_tzrguG1U2oGE5e1O-36" target="cyeEAOcGzKLk-wOIlBgN-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
