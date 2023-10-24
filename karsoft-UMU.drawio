@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T11:59:51.918Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="S-jr3jh3eAeRMPF2bhh3" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-24T12:00:26.051Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="1ha13Wp7P9EWljB3Rsc-" version="22.0.6" type="github">
   <diagram name="Страница — 1" id="l952tXTDJv2I5u81VP_P">
     <mxGraphModel dx="1373" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -262,7 +262,7 @@
         <mxCell id="cyeEAOcGzKLk-wOIlBgN-69" value="title" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="cyeEAOcGzKLk-wOIlBgN-67" vertex="1">
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FIKXrP4ZN5yw73bUJ9Y1-2" value="title" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="cyeEAOcGzKLk-wOIlBgN-67">
+        <mxCell id="FIKXrP4ZN5yw73bUJ9Y1-2" value="is_public" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="cyeEAOcGzKLk-wOIlBgN-67">
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fqlwbIrNDPJbpzX7PKJO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="5lU2MvCnA9rc4x8VBAlA-31" target="5lU2MvCnA9rc4x8VBAlA-33" edge="1">
