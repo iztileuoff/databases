@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-23T10:41:18.541Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="2RCaoT7GHLQDjtd9XVle" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-23T11:01:11.123Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="qN2ZiIGC-YQpp-DTT-OQ" version="22.1.3" type="github">
   <diagram name="Страница 1" id="WVxcMm0KjkR60h23hDJV">
-    <mxGraphModel dx="2353" dy="1199" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="824" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,7 +59,9 @@
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9s2KFk0PjAGt847YJdl5-28" value="category_word" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;rounded=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1020" y="718" width="160" height="86" as="geometry" />
+          <mxGeometry x="1020" y="718" width="160" height="86" as="geometry">
+            <mxRectangle x="1020" y="718" width="130" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="9s2KFk0PjAGt847YJdl5-30" value="category_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="9s2KFk0PjAGt847YJdl5-28" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
