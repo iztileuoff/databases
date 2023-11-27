@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T11:37:06.882Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="PDVDMS6wO8_QKuIp3mna" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-27T11:38:35.561Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="pm0HOo4fpG0zC0kNCe7D" version="22.1.4" type="github">
   <diagram name="Страница 1" id="WWJTZpefmepHNkrWrImT">
     <mxGraphModel dx="1373" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -211,7 +211,7 @@
         <mxCell id="2iZCAoVreGl1eg510hAn-4" value="title" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="2iZCAoVreGl1eg510hAn-2" vertex="1">
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2iZCAoVreGl1eg510hAn-5" value="text" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="2iZCAoVreGl1eg510hAn-2" vertex="1">
+        <mxCell id="2iZCAoVreGl1eg510hAn-5" value="description" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="2iZCAoVreGl1eg510hAn-2" vertex="1">
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2iZCAoVreGl1eg510hAn-7" value="company_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="2iZCAoVreGl1eg510hAn-2" vertex="1">
