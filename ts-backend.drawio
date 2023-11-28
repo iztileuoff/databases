@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T07:46:24.145Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="a5JI9_i1x7DKttZRMc5U" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-28T07:46:32.253Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="rYZ1cG2jtHf80mua0sUb" version="22.1.4" type="github">
   <diagram name="Страница 1" id="WVxcMm0KjkR60h23hDJV">
     <mxGraphModel dx="1136" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -141,7 +141,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3O-wHNPVdunCnhCmh2ZS-10" value="antonym_words" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;rounded=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1020" y="460" width="160" height="86" as="geometry" />
+          <mxGeometry x="1020" y="529" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="3O-wHNPVdunCnhCmh2ZS-12" value="word_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="3O-wHNPVdunCnhCmh2ZS-10" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -235,7 +235,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jsjM7r-nwyr5tk8TJFxh-1" value="synonym_words" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;rounded=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="693" width="160" height="86" as="geometry" />
+          <mxGeometry x="1020" y="663" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="jsjM7r-nwyr5tk8TJFxh-2" value="word_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="jsjM7r-nwyr5tk8TJFxh-1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
