@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T09:16:43.725Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="zseI3wSJ95TUX2EH6gQT" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-05T09:22:02.112Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="iQdJgIdqfNbkayJDJV-5" version="22.1.5" type="github">
   <diagram name="Страница 1" id="WWJTZpefmepHNkrWrImT">
-    <mxGraphModel dx="989" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="925" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -160,14 +160,17 @@
         <mxCell id="yyj8JB5hNh9lsczUFbOv-4" value="created_at" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="8EYOW2EtYVELpD3vxhLb-52" vertex="1">
           <mxGeometry y="176" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8EYOW2EtYVELpD3vxhLb-61" value="chat_course" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=2;rounded=1;shadow=0;glass=0;swimlaneLine=1;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="240" width="160" height="86" as="geometry" />
+        <mxCell id="8EYOW2EtYVELpD3vxhLb-61" value="Order" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=2;rounded=1;shadow=0;glass=0;swimlaneLine=1;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="240" width="160" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="8EYOW2EtYVELpD3vxhLb-62" value="course_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="8EYOW2EtYVELpD3vxhLb-61" vertex="1">
+        <mxCell id="uAWTu42FeQ_NSXFowpAh-40" value="id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="8EYOW2EtYVELpD3vxhLb-61">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8EYOW2EtYVELpD3vxhLb-63" value="telegraph_chat_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="8EYOW2EtYVELpD3vxhLb-61" vertex="1">
+        <mxCell id="8EYOW2EtYVELpD3vxhLb-62" value="course_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="8EYOW2EtYVELpD3vxhLb-61" vertex="1">
           <mxGeometry y="56" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8EYOW2EtYVELpD3vxhLb-63" value="telegraph_chat_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="8EYOW2EtYVELpD3vxhLb-61" vertex="1">
+          <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8EYOW2EtYVELpD3vxhLb-69" value="Course" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=2;rounded=1;shadow=0;glass=0;swimlaneLine=1;" parent="1" vertex="1">
           <mxGeometry x="780" y="150" width="160" height="176" as="geometry" />
