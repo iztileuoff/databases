@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-09-11T11:03:54.382Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="5McXQbp-rkE3zDvd5sxs" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-21T05:44:10.522Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="rfoOnogWUYUkbrFpyVIV" version="22.1.11" type="github">
   <diagram name="Страница 1" id="3O0WRD6ntN8AMsJ6ZHiI">
-    <mxGraphModel dx="2801" dy="1769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2643" dy="1678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gDfsCJUdMW87dbdzrjT4-1" value="User" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=2;rounded=1;shadow=0;glass=0;swimlaneLine=1;" parent="1" vertex="1">
-          <mxGeometry x="-990" y="387" width="160" height="206" as="geometry" />
+          <mxGeometry x="-990" y="387" width="160" height="176" as="geometry" />
         </mxCell>
         <mxCell id="gDfsCJUdMW87dbdzrjT4-2" value="id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="gDfsCJUdMW87dbdzrjT4-1" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -19,11 +19,8 @@
         <mxCell id="gDfsCJUdMW87dbdzrjT4-5" value="password" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="gDfsCJUdMW87dbdzrjT4-1" vertex="1">
           <mxGeometry y="116" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gDfsCJUdMW87dbdzrjT4-6" value="email" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="gDfsCJUdMW87dbdzrjT4-1" vertex="1">
-          <mxGeometry y="146" width="160" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="pXheZxyEmchqNEhVkgAC-46" value="role_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="gDfsCJUdMW87dbdzrjT4-1" vertex="1">
-          <mxGeometry y="176" width="160" height="30" as="geometry" />
+          <mxGeometry y="146" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gDfsCJUdMW87dbdzrjT4-7" value="Book" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=2;rounded=1;shadow=0;glass=0;swimlaneLine=1;" parent="1" vertex="1">
           <mxGeometry x="-210" y="387" width="160" height="296" as="geometry" />
