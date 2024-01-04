@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T10:24:28.650Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="wv5nmo9N3jIWuOOO-bC_" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-04T10:25:28.875Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Q5VHsjBkRjXdl_Via-Lw" version="22.1.16" type="github">
   <diagram name="Страница — 1" id="v7oM--o3gV5WJEw0xlFY">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -217,12 +217,21 @@
           <mxGeometry y="116" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hkPwFCnZwp60vumQR1zY-18" value="course_member" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=2;rounded=1;shadow=0;glass=0;swimlaneLine=1;" parent="1" vertex="1">
-          <mxGeometry x="940" y="524" width="160" height="86" as="geometry" />
+          <mxGeometry x="960" y="520" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="hkPwFCnZwp60vumQR1zY-19" value="course_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="hkPwFCnZwp60vumQR1zY-18" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hkPwFCnZwp60vumQR1zY-20" value="member_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="hkPwFCnZwp60vumQR1zY-18" vertex="1">
+          <mxGeometry y="56" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yGnYdPz0xtIw6dgkBTYU-1" value="member_lesson" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=2;rounded=1;shadow=0;glass=0;swimlaneLine=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="380" width="160" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="yGnYdPz0xtIw6dgkBTYU-2" value="lesson_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="yGnYdPz0xtIw6dgkBTYU-1">
+          <mxGeometry y="26" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yGnYdPz0xtIw6dgkBTYU-3" value="member_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="yGnYdPz0xtIw6dgkBTYU-1">
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
