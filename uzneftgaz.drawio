@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-31T07:51:18.442Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="VCKN_Bd548siC37k6Cyg" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-31T07:52:05.862Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="GlPDxH_dE_hitafRnSyw" version="23.0.2" type="github">
   <diagram name="Страница — 1" id="4VIFpvgB_l6-nNroEM3K">
     <mxGraphModel dx="1696" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -316,7 +316,7 @@
         <mxCell id="qpfE_1XmCQR1DutoYMbA-109" value="gas_station_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="qpfE_1XmCQR1DutoYMbA-107">
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qpfE_1XmCQR1DutoYMbA-110" value="point" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="qpfE_1XmCQR1DutoYMbA-107">
+        <mxCell id="qpfE_1XmCQR1DutoYMbA-110" value="vehicle_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="qpfE_1XmCQR1DutoYMbA-107">
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
