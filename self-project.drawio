@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T06:28:40.193Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="2wl5ClP-h41LLOVRiduM" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-05T06:28:55.025Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="xXWp45_ARrZ_H4qCKwi8" version="23.1.1" type="github">
   <diagram name="Страница — 1" id="peHdosfCIL-0vyRkbnHP">
     <mxGraphModel dx="1195" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
           <mxGeometry y="176" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LF_U8Vdq3i7tZYe58X0l-17" value="Transaction" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=2;rounded=1;shadow=0;glass=0;swimlaneLine=1;" parent="1" vertex="1">
-          <mxGeometry x="990" y="740" width="160" height="146" as="geometry" />
+          <mxGeometry x="970" y="680" width="160" height="146" as="geometry" />
         </mxCell>
         <mxCell id="LF_U8Vdq3i7tZYe58X0l-18" value="id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="LF_U8Vdq3i7tZYe58X0l-17" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
