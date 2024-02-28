@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T11:53:44.432Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="qSpVYbAyc2z0JLxKP_Xs" version="23.1.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-28T11:54:02.226Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="5jlzv9t5lw07PS4vJTS_" version="23.1.7" type="github" pages="3">
   <diagram id="ta_V7EfwXx0lQSMvQ-4N" name="v3">
-    <mxGraphModel dx="1434" dy="-431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="-660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -242,7 +242,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MnqrZ06M2SEnd-pcQ_4w-4" value="shop_user" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="250" y="1860" width="140" height="104" as="geometry" />
+          <mxGeometry x="250" y="1840" width="140" height="104" as="geometry" />
         </mxCell>
         <mxCell id="MnqrZ06M2SEnd-pcQ_4w-5" value="shop_id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="MnqrZ06M2SEnd-pcQ_4w-4" vertex="1">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
