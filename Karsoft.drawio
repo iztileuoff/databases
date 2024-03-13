@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T12:22:14.845Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="DSSam8SK2nLT2vqIRX5c" version="24.0.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-13T12:26:54.037Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="3SyvCgXAPo5GtvWKH4eN" version="24.0.5" type="github" pages="2">
   <diagram name="Страница — 1" id="xwpIghTw2s4G7OZQ__0h">
     <mxGraphModel dx="1062" dy="-622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -202,7 +202,7 @@
         <mxCell id="va77DOEVcfIE8ZO99TZS-5" value="id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="va77DOEVcfIE8ZO99TZS-4">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="va77DOEVcfIE8ZO99TZS-6" value="name" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="va77DOEVcfIE8ZO99TZS-4">
+        <mxCell id="va77DOEVcfIE8ZO99TZS-6" value="title" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="va77DOEVcfIE8ZO99TZS-4">
           <mxGeometry y="52" width="140" height="26" as="geometry" />
         </mxCell>
       </root>
