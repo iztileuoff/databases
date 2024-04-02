@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-02T11:36:46.930Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="9_kprEtiqjP6rV3nUPsN" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-02T11:37:02.690Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="INkKNS9M2IF_gRFKJSqn" version="24.2.1" type="github">
   <diagram name="Страница — 1" id="WHzNaa2vAF3_SvquMsoz">
-    <mxGraphModel dx="989" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
           <mxGeometry y="176" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ufpbq39WT0exQgd2Rxnb-11" value="Order" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=2;rounded=1;shadow=0;glass=0;swimlaneLine=1;" parent="1" vertex="1">
-          <mxGeometry x="850" y="521" width="160" height="446" as="geometry" />
+          <mxGeometry x="840" y="570" width="160" height="446" as="geometry" />
         </mxCell>
         <mxCell id="ufpbq39WT0exQgd2Rxnb-12" value="id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="ufpbq39WT0exQgd2Rxnb-11" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -122,7 +122,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2HXU6Upzlg9KUPoMQx_O-18" value="Payment" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=2;rounded=1;shadow=0;glass=0;swimlaneLine=1;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="570" width="160" height="326" as="geometry" />
+          <mxGeometry x="1080.5" y="650" width="160" height="326" as="geometry" />
         </mxCell>
         <mxCell id="2HXU6Upzlg9KUPoMQx_O-19" value="id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="2HXU6Upzlg9KUPoMQx_O-18" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
