@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-19T04:58:20.897Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="CU5yREXTtArBisyxv-d-" version="24.2.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-19T05:04:09.002Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="n06PMBG3vI_EaFXmmIT_" version="24.2.5" type="github" pages="2">
   <diagram name="Страница — 1" id="WHzNaa2vAF3_SvquMsoz">
-    <mxGraphModel dx="2390" dy="1230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1593" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
           <mxGeometry y="146" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ufpbq39WT0exQgd2Rxnb-11" value="Order" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=2;rounded=1;shadow=0;glass=0;swimlaneLine=1;" parent="1" vertex="1">
-          <mxGeometry x="997" y="559" width="160" height="446" as="geometry" />
+          <mxGeometry x="980" y="559" width="160" height="446" as="geometry" />
         </mxCell>
         <mxCell id="ufpbq39WT0exQgd2Rxnb-12" value="id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="ufpbq39WT0exQgd2Rxnb-11" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -125,7 +125,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2HXU6Upzlg9KUPoMQx_O-18" value="Payment" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=2;rounded=1;shadow=0;glass=0;swimlaneLine=1;" parent="1" vertex="1">
-          <mxGeometry x="1250.5" y="649" width="160" height="386" as="geometry" />
+          <mxGeometry x="1220" y="626" width="160" height="386" as="geometry" />
         </mxCell>
         <mxCell id="2HXU6Upzlg9KUPoMQx_O-19" value="id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="2HXU6Upzlg9KUPoMQx_O-18" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -167,7 +167,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2HXU6Upzlg9KUPoMQx_O-33" value="PaymentType" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=2;rounded=1;shadow=0;glass=0;swimlaneLine=1;" parent="1" vertex="1">
-          <mxGeometry x="1710" y="500" width="160" height="86" as="geometry" />
+          <mxGeometry x="1654" y="500" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="2HXU6Upzlg9KUPoMQx_O-34" value="id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="2HXU6Upzlg9KUPoMQx_O-33" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -203,7 +203,7 @@
           <mxGeometry y="116" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hS9vgsViVSdzWUvUSHCV-18" value="Pay" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=2;rounded=1;shadow=0;glass=0;swimlaneLine=1;" parent="1" vertex="1">
-          <mxGeometry x="1480" y="519" width="160" height="236" as="geometry" />
+          <mxGeometry x="1440" y="533" width="160" height="236" as="geometry" />
         </mxCell>
         <mxCell id="hS9vgsViVSdzWUvUSHCV-19" value="id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="hS9vgsViVSdzWUvUSHCV-18" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
