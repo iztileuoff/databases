@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-24T06:08:46.193Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="_eUPd9kcLsSCkPeg6iA7" version="24.2.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-04-24T06:16:11.687Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="iMBWxDj6HXRbMtuiisyO" version="24.2.8" type="github" pages="5">
   <diagram name="Страница 1" id="WWJTZpefmepHNkrWrImT">
     <mxGraphModel dx="3585" dy="1845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2623,7 +2623,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FytC3fygoRCh_QKpvsyW" name="main">
-    <mxGraphModel dx="-857" dy="410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="139" dy="923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2973,39 +2973,6 @@
           <mxGeometry y="236" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SR8-k1AWUbdRhDREnc0a-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="SR8-k1AWUbdRhDREnc0a-55" target="SR8-k1AWUbdRhDREnc0a-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SR8-k1AWUbdRhDREnc0a-111" value="Ticket" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=2;rounded=1;shadow=0;glass=0;swimlaneLine=1;" vertex="1" parent="1">
-          <mxGeometry x="4230" y="587" width="160" height="146" as="geometry" />
-        </mxCell>
-        <mxCell id="SR8-k1AWUbdRhDREnc0a-112" value="id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="SR8-k1AWUbdRhDREnc0a-111">
-          <mxGeometry y="26" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SR8-k1AWUbdRhDREnc0a-113" value="name" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="SR8-k1AWUbdRhDREnc0a-111">
-          <mxGeometry y="56" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SR8-k1AWUbdRhDREnc0a-114" value="price" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="SR8-k1AWUbdRhDREnc0a-111">
-          <mxGeometry y="86" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SR8-k1AWUbdRhDREnc0a-115" value="company_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="SR8-k1AWUbdRhDREnc0a-111">
-          <mxGeometry y="116" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SR8-k1AWUbdRhDREnc0a-116" value="lead_ticket" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=2;rounded=1;shadow=0;glass=0;swimlaneLine=1;" vertex="1" parent="1">
-          <mxGeometry x="4020" y="632" width="160" height="116" as="geometry" />
-        </mxCell>
-        <mxCell id="SR8-k1AWUbdRhDREnc0a-117" value="lead_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="SR8-k1AWUbdRhDREnc0a-116">
-          <mxGeometry y="26" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SR8-k1AWUbdRhDREnc0a-118" value="ticket_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="SR8-k1AWUbdRhDREnc0a-116">
-          <mxGeometry y="56" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SR8-k1AWUbdRhDREnc0a-119" value="quantity" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="SR8-k1AWUbdRhDREnc0a-116">
-          <mxGeometry y="86" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SR8-k1AWUbdRhDREnc0a-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="SR8-k1AWUbdRhDREnc0a-117" target="SR8-k1AWUbdRhDREnc0a-102">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SR8-k1AWUbdRhDREnc0a-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="SR8-k1AWUbdRhDREnc0a-118" target="SR8-k1AWUbdRhDREnc0a-112">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SR8-k1AWUbdRhDREnc0a-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="SR8-k1AWUbdRhDREnc0a-47" target="SR8-k1AWUbdRhDREnc0a-17">
