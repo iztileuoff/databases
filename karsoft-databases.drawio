@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-06T06:55:58.578Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="-6j6WXD-7sdBMFjIcOuH" version="24.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-06T07:01:32.979Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="SS96mQExKYDMujLdm7ey" version="24.3.1" type="github" pages="3">
   <diagram id="oeY3cE-XFMkB4nPr6lH_" name="Medical">
-    <mxGraphModel dx="2514" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1646" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,7 +37,7 @@
         <mxCell id="7ee7ygl37vqbp-rvMr5z-1" value="quarter_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="IxN-MtyGnQPgu1daz3V6-6" vertex="1">
           <mxGeometry y="146" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7ee7ygl37vqbp-rvMr5z-2" value="street" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="IxN-MtyGnQPgu1daz3V6-6" vertex="1">
+        <mxCell id="7ee7ygl37vqbp-rvMr5z-2" value="street_name" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="IxN-MtyGnQPgu1daz3V6-6" vertex="1">
           <mxGeometry y="176" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IxN-MtyGnQPgu1daz3V6-11" value="passport_seria" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="IxN-MtyGnQPgu1daz3V6-6" vertex="1">
