@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T10:27:14.401Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="60yA-8MgVykfS1MdRAG1" version="24.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-14T10:27:57.985Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Rb5OYYadb9NnriIy3BmZ" version="24.4.0" type="github" pages="3">
   <diagram id="7AuEXIyxK4dvGpUbUsbF" name="Страница — 2">
     <mxGraphModel dx="2206" dy="37" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -571,7 +571,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vE-8gFIKRayns4Sl7YmL" name="Success">
-    <mxGraphModel dx="1434" dy="-385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="-516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
