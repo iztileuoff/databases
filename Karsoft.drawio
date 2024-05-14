@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T11:04:40.598Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="8ZacDvXxmXOkKwDSVJm0" version="24.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-14T11:07:21.927Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="nYL_FSb2PdgmOZ1h0WsB" version="24.4.0" type="github" pages="3">
   <diagram id="7AuEXIyxK4dvGpUbUsbF" name="Страница — 2">
     <mxGraphModel dx="2206" dy="37" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -890,7 +890,7 @@
         <mxCell id="H4r8oLMfCPjqn6KOHBIm-107" value="minute_difference" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="H4r8oLMfCPjqn6KOHBIm-100">
           <mxGeometry y="130" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="H4r8oLMfCPjqn6KOHBIm-108" value="attendance_minute" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="H4r8oLMfCPjqn6KOHBIm-100">
+        <mxCell id="H4r8oLMfCPjqn6KOHBIm-108" value="minute_of_presence" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="H4r8oLMfCPjqn6KOHBIm-100">
           <mxGeometry y="156" width="140" height="26" as="geometry" />
         </mxCell>
       </root>
