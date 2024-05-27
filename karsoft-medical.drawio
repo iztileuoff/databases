@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T06:22:30.797Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="88bXW-cON_yJw3ZCuIge" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-27T07:12:20.135Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="JxAWU8aFLUr8kyDejmEa" version="24.4.8" type="github">
   <diagram name="Страница — 1" id="kbrbgeuWTtMILB-jMMIU">
-    <mxGraphModel dx="2473" dy="448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2849" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -418,8 +418,8 @@
         <mxCell id="pS-HeLhJeL4m1CI1FLw5-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="pS-HeLhJeL4m1CI1FLw5-23" target="Pl3B4qukLg-FO-uoOV0_-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pS-HeLhJeL4m1CI1FLw5-29" value="&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li&gt;uz_cyr&lt;/li&gt;&lt;li&gt;uz_lat&lt;/li&gt;&lt;li&gt;qr_cry&lt;/li&gt;&lt;li&gt;qr_lat&lt;br&gt;&lt;/li&gt;&lt;li&gt;ru&lt;/li&gt;&lt;li&gt;en&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=#d79b00;fillColor=#ffe6cc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1470" y="616" width="120" height="144" as="geometry" />
+        <mxCell id="pS-HeLhJeL4m1CI1FLw5-29" value="&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li&gt;uz&lt;/li&gt;&lt;li&gt;qr&lt;br&gt;&lt;/li&gt;&lt;li&gt;ru&lt;/li&gt;&lt;li&gt;en&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=#d79b00;fillColor=#ffe6cc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1470" y="616" width="120" height="104" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
