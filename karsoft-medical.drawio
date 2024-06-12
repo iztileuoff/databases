@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T09:53:49.938Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="x_JZ-gLmH8AhEhs5so92" version="24.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-12T10:59:17.217Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="LK7d2-iOa5zJg48bYwuv" version="24.5.3" type="github" pages="2">
   <diagram name="Страница — 1" id="kbrbgeuWTtMILB-jMMIU">
     <mxGraphModel dx="2473" dy="1591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,7 +70,7 @@
         <mxCell id="Pl3B4qukLg-FO-uoOV0_-22" value="patient_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="Pl3B4qukLg-FO-uoOV0_-20" vertex="1">
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R6h8KWY-LzyJsA1P9mg2-7" value="import_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Pl3B4qukLg-FO-uoOV0_-20">
+        <mxCell id="R6h8KWY-LzyJsA1P9mg2-7" value="excel_import_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Pl3B4qukLg-FO-uoOV0_-20">
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nXG4mwOZ9KmWXIDs8RRs-8" value="establishment_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="Pl3B4qukLg-FO-uoOV0_-20" vertex="1">
