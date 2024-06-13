@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T07:03:22.850Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="F2ntIn4KYCGkJiHBohpQ" version="24.5.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-13T07:07:43.083Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="UPm5aB9BwVeEeIfhr1HG" version="24.5.4" type="github" pages="2">
   <diagram name="Страница — 1" id="kbrbgeuWTtMILB-jMMIU">
-    <mxGraphModel dx="2595" dy="1648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2790" dy="1748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -418,7 +418,7 @@
         <mxCell id="qDD7FwYoLn1nM2n9oXLO-19" value="(in alaysis: is_detected)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="qDD7FwYoLn1nM2n9oXLO-6" vertex="1">
           <mxGeometry y="116" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qDD7FwYoLn1nM2n9oXLO-20" value="(in alaysis: value)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="qDD7FwYoLn1nM2n9oXLO-6" vertex="1">
+        <mxCell id="qDD7FwYoLn1nM2n9oXLO-20" value="(in alaysis: values)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="qDD7FwYoLn1nM2n9oXLO-6" vertex="1">
           <mxGeometry y="146" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R6h8KWY-LzyJsA1P9mg2-28" value="(in alaysis: data)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="qDD7FwYoLn1nM2n9oXLO-6" vertex="1">
