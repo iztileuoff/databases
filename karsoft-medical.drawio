@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-14T16:47:59.449Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="TCKlJlpDF1MYynIgraFq" version="24.5.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-15T04:46:12.588Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="UAT7myqkOGQ7fMwmXq6R" version="24.5.4" type="github" pages="2">
   <diagram name="Страница — 1" id="kbrbgeuWTtMILB-jMMIU">
-    <mxGraphModel dx="3301" dy="2008" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2595" dy="1648" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -565,7 +565,7 @@
         <mxCell id="R6h8KWY-LzyJsA1P9mg2-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="R6h8KWY-LzyJsA1P9mg2-4" target="nXG4mwOZ9KmWXIDs8RRs-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R6h8KWY-LzyJsA1P9mg2-13" value="Antibiotic" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=2;rounded=1;shadow=0;glass=0;swimlaneLine=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="R6h8KWY-LzyJsA1P9mg2-13" value="Antibiotic" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=2;rounded=1;shadow=0;glass=0;swimlaneLine=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1890" y="410" width="160" height="116" as="geometry" />
         </mxCell>
         <mxCell id="R6h8KWY-LzyJsA1P9mg2-14" value="id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="R6h8KWY-LzyJsA1P9mg2-13" vertex="1">
@@ -610,13 +610,13 @@
         <mxCell id="mD4ARHdsKJsuf6tEemNZ-3" value="value_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="mD4ARHdsKJsuf6tEemNZ-1" vertex="1">
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5baDPi3hN6IjwmrLuYsb-1" value="antibiotic_result" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=2;rounded=1;shadow=0;glass=0;swimlaneLine=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="5baDPi3hN6IjwmrLuYsb-1" value="antibiotic_result" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=2;rounded=1;shadow=0;glass=0;swimlaneLine=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1640" y="420" width="160" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="5baDPi3hN6IjwmrLuYsb-2" value="result_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="5baDPi3hN6IjwmrLuYsb-1">
+        <mxCell id="5baDPi3hN6IjwmrLuYsb-2" value="result_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="5baDPi3hN6IjwmrLuYsb-1" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5baDPi3hN6IjwmrLuYsb-3" value="antibiotic_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="5baDPi3hN6IjwmrLuYsb-1">
+        <mxCell id="5baDPi3hN6IjwmrLuYsb-3" value="antibiotic_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="5baDPi3hN6IjwmrLuYsb-1" vertex="1">
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
