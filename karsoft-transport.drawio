@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-16T09:30:16.935Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="4JFBAN1Un-lFMrFkPvvK" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-16T09:32:24.810Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="KNFWwf1CmnymOZHSdPHu" version="24.5.4" type="github">
   <diagram name="Страница — 1" id="SnI-keLMXkdukTwJwR_s">
-    <mxGraphModel dx="784" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="941" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,7 +55,7 @@
         <mxCell id="Iq8x8qq_fXdgDx8PHz4y-42" value="user_id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Iq8x8qq_fXdgDx8PHz4y-10" vertex="1">
           <mxGeometry y="208" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Iq8x8qq_fXdgDx8PHz4y-13" value="number" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Iq8x8qq_fXdgDx8PHz4y-10" vertex="1">
+        <mxCell id="Iq8x8qq_fXdgDx8PHz4y-13" value="license_plate" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Iq8x8qq_fXdgDx8PHz4y-10" vertex="1">
           <mxGeometry y="234" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Iq8x8qq_fXdgDx8PHz4y-15" value="payment_price" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Iq8x8qq_fXdgDx8PHz4y-10" vertex="1">
