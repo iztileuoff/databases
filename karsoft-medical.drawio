@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-19T06:40:31.397Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="F0_ekUWLCagEf14O-ZW6" version="24.5.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-19T06:40:59.742Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="_JPu2mZtbp8U0sHc2oLW" version="24.5.5" type="github" pages="2">
   <diagram name="Страница — 1" id="kbrbgeuWTtMILB-jMMIU">
-    <mxGraphModel dx="2203" dy="1467" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2874" dy="1830" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -260,7 +260,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pl3B4qukLg-FO-uoOV0_-112" value="Status" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=2;rounded=1;shadow=0;glass=0;swimlaneLine=1;" parent="1" vertex="1">
-          <mxGeometry x="334" y="880" width="160" height="86" as="geometry" />
+          <mxGeometry x="330" y="710" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="Pl3B4qukLg-FO-uoOV0_-113" value="id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="Pl3B4qukLg-FO-uoOV0_-112" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -269,7 +269,7 @@
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a6wudeuGVStHfig4oCZO-7" value="&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li&gt;pay&lt;/li&gt;&lt;li&gt;free&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=#d79b00;fillColor=#ffe6cc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="354" y="736" width="120" height="86" as="geometry" />
+          <mxGeometry x="120" y="736" width="120" height="86" as="geometry" />
         </mxCell>
         <mxCell id="nXG4mwOZ9KmWXIDs8RRs-1" value="Establishment" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=2;rounded=1;shadow=0;glass=0;swimlaneLine=1;" parent="1" vertex="1">
           <mxGeometry x="474" y="104" width="160" height="146" as="geometry" />
@@ -362,7 +362,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EB0ASMA1BeCgecPtFLi0-3" value="order_status" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=2;rounded=1;shadow=0;glass=0;swimlaneLine=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="880" width="160" height="176" as="geometry" />
+          <mxGeometry x="550" y="710" width="160" height="176" as="geometry" />
         </mxCell>
         <mxCell id="EB0ASMA1BeCgecPtFLi0-4" value="order_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="EB0ASMA1BeCgecPtFLi0-3" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
