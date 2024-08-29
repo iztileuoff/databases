@@ -3378,7 +3378,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CwK8h3ZY9WR-nTqtG-9E" name="Страница — 6">
-    <mxGraphModel dx="-1047" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-1286" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3398,7 +3398,7 @@
           <mxGeometry y="116" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iShP34-xQbPQJxFREXFk-1" value="Link" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=2;rounded=1;shadow=0;glass=0;swimlaneLine=1;" parent="1" vertex="1">
-          <mxGeometry x="2900" y="710" width="160" height="206" as="geometry" />
+          <mxGeometry x="2900" y="710" width="160" height="236" as="geometry" />
         </mxCell>
         <mxCell id="iShP34-xQbPQJxFREXFk-2" value="id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="iShP34-xQbPQJxFREXFk-1" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -3417,6 +3417,9 @@
         </mxCell>
         <mxCell id="iShP34-xQbPQJxFREXFk-8" value="price" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="iShP34-xQbPQJxFREXFk-1" vertex="1">
           <mxGeometry y="176" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lAHp0_OFn7pvHrGd48Ta-1" value="count" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="iShP34-xQbPQJxFREXFk-1">
+          <mxGeometry y="206" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-5wUhvacBs4v1ndpafg5-1" value="Lead" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=2;rounded=1;shadow=0;glass=0;swimlaneLine=1;" parent="1" vertex="1">
           <mxGeometry x="3210" y="460" width="160" height="206" as="geometry" />
