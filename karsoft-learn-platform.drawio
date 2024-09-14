@@ -43,7 +43,7 @@
         <mxCell id="sHupLWwJTQ0SxJ8uyFSt-1" value="is_admin" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="bqwLV_UvMLzOqP7b5uIp-1" vertex="1">
           <mxGeometry y="356" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sHupLWwJTQ0SxJ8uyFSt-2" value="region_id" style="text;strokeColor=#b85450;fillColor=#f8cecc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="bqwLV_UvMLzOqP7b5uIp-1" vertex="1">
+        <mxCell id="sHupLWwJTQ0SxJ8uyFSt-2" value="region_id" style="text;strokeColor=#d79b00;fillColor=#ffe6cc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="bqwLV_UvMLzOqP7b5uIp-1" vertex="1">
           <mxGeometry y="386" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sHupLWwJTQ0SxJ8uyFSt-3" value="district_id" style="text;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="bqwLV_UvMLzOqP7b5uIp-1" vertex="1">
