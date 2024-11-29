@@ -650,7 +650,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Копия Страница — 1" id="lmEUeTyFOIHnDY1ECNUS">
-    <mxGraphModel dx="2643" dy="1678" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2473" dy="1591" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="JEfFL7bykh-Vbu6BgH4x-0" />
         <mxCell id="JEfFL7bykh-Vbu6BgH4x-1" parent="JEfFL7bykh-Vbu6BgH4x-0" />
@@ -1317,7 +1317,7 @@
         <mxCell id="o0cWrUWCQHtMaBKeDNZm-0" value="domain" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="JEfFL7bykh-Vbu6BgH4x-213" vertex="1">
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tCwdc5IsDy0hdsczfkGA-7" value="ServicePrice" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=2;rounded=1;shadow=0;glass=0;swimlaneLine=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="JEfFL7bykh-Vbu6BgH4x-1" vertex="1">
+        <mxCell id="tCwdc5IsDy0hdsczfkGA-7" value="Price" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;strokeWidth=2;rounded=1;shadow=0;glass=0;swimlaneLine=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="JEfFL7bykh-Vbu6BgH4x-1" vertex="1">
           <mxGeometry x="1410" y="830" width="160" height="146" as="geometry" />
         </mxCell>
         <mxCell id="tCwdc5IsDy0hdsczfkGA-8" value="id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="tCwdc5IsDy0hdsczfkGA-7" vertex="1">
@@ -1329,7 +1329,7 @@
         <mxCell id="tCwdc5IsDy0hdsczfkGA-10" value="tenant_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="tCwdc5IsDy0hdsczfkGA-7" vertex="1">
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tCwdc5IsDy0hdsczfkGA-11" value="price" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="tCwdc5IsDy0hdsczfkGA-7" vertex="1">
+        <mxCell id="tCwdc5IsDy0hdsczfkGA-11" value="amount" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="tCwdc5IsDy0hdsczfkGA-7" vertex="1">
           <mxGeometry y="116" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
