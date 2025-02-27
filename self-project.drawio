@@ -103,7 +103,7 @@
         <mxCell id="3rob4rgQquIr-SFXEAfX-3" value="name" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="3rob4rgQquIr-SFXEAfX-1" vertex="1">
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3rob4rgQquIr-SFXEAfX-4" value="phone" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="3rob4rgQquIr-SFXEAfX-1" vertex="1">
+        <mxCell id="3rob4rgQquIr-SFXEAfX-4" value="email" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="3rob4rgQquIr-SFXEAfX-1" vertex="1">
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3rob4rgQquIr-SFXEAfX-5" value="password" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="3rob4rgQquIr-SFXEAfX-1" vertex="1">
